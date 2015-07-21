@@ -4,7 +4,8 @@
   "description": "AngularJS application that loads a local HL7 file and allows searching on the data",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ws --compress"
   },
   "repository": {
     "type": "git",
@@ -18,6 +19,7 @@
   "homepage": "https://github.com/rfender/HL7-Search",
   "dependencies": {
     "angular": "^1.4.3",
+    "angular-route": "^1.4.3",
     "bootstrap": "^3.3.5"
   }
 }
