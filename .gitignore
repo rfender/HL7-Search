@@ -1,0 +1,2 @@
+# don't checkin the node-modules directory or it's contents
+node-modules
