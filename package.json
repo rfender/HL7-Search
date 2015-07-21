@@ -21,5 +21,8 @@
     "angular": "^1.4.3",
     "angular-route": "^1.4.3",
     "bootstrap": "^3.3.5"
+  },
+  "devDependencies": {
+    "local-web-server": "^0.5.20"
   }
 }
